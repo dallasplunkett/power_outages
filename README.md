@@ -58,7 +58,7 @@ Within this univariate analysis I report two important distributions, but first,
 __How long do power outages tend to occur?__
 
 <iframe
-  src="assets/outage_duration.html"
+  src="./assets/outage_duration.html"
   width="800"
   height="600"
   frameborder="0"
@@ -74,6 +74,7 @@ __But what causes these power outages?__
   height="600"
   frameborder="0"
 ></iframe>
+
 
 As we can see, severe weather is the most common reason for power outages to occur. What's interesting to me is that intentional attacks are the second most common reason at just over 400 occurrences within this dataset.
 
