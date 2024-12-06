@@ -97,7 +97,7 @@ __When are these power outages occurring?__
 <iframe
   src="assets/outages_by_month_and_year.html"
   width="800"
-  height="1200"
+  height="1100"
   frameborder="0"
 ></iframe>
 
