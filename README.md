@@ -59,8 +59,8 @@ __How long do power outages tend to occur?__
 
 <iframe
   src="assets/outages_duration.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -70,8 +70,8 @@ __But what causes these power outages?__
 
 <iframe
   src="assets/cause_category.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -85,8 +85,8 @@ __Where are these power outages occurring?__
 
 <iframe
   src="assets/outages_by_state.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -96,8 +96,8 @@ __When are these power outages occurring?__
 
 <iframe
   src="assets/outages_by_month_and_year.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="1200"
   frameborder="0"
 ></iframe>
 
@@ -148,8 +148,8 @@ I first examined the `climate_category` when `outage_duration` is missing and no
 
 <iframe
   src="assets/climate_category_by_outage_duration_missingness.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -157,8 +157,8 @@ Above we can see the proportion of warm, normal and cold climates when `outage_d
 
 <iframe
   src="assets/climate_category_by_outage_duration_tvd_distribution.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -169,8 +169,8 @@ I then examined the `cause_category` when `outage_duration` is missing and not m
 
 <iframe
   src="assets/cause_category_by_outage_duration_missingness.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -178,8 +178,8 @@ Above we can see the proportion of causes when `outage_duration` is missing and 
 
 <iframe
   src="assets/cause_category_by_outage_duration_tvd_distribution.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -192,8 +192,8 @@ As one of my primary focuses is on the duration of outages, I wanted to further 
 
 <iframe
   src="assets/outage_duration_by_state_ks_distribution.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
@@ -226,8 +226,8 @@ To conclude, I investigated the fairness of my final model. To do this, I wanted
 
 <iframe
   src="assets/fairness_rmse_distribution.html"
-  width="800"
-  height="600"
+  width="1200"
+  height="900"
   frameborder="0"
 ></iframe>
 
