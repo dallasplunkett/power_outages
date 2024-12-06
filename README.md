@@ -97,7 +97,7 @@ __When are these power outages occurring?__
 <iframe
   src="assets/outages_by_month_and_year.html"
   width="800"
-  height="=800"
+  height="600"
   frameborder="0"
 ></iframe>
 
@@ -169,8 +169,8 @@ I then examined the `cause_category` when `outage_duration` is missing and not m
 
 <iframe
   src="assets/cause_category_by_outage_duration_missingness.html"
-  width="1200"
-  height="900"
+  width="800"
+  height="600"
   frameborder="0"
 ></iframe>
 
