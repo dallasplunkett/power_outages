@@ -58,7 +58,7 @@ Within this univariate analysis I report two important distributions, but first,
 __How long do power outages tend to occur?__
 
 <iframe
-  src="assets/outage_duration.html"
+  src="assets/outages_duration.html"
   width="800"
   height="600"
   frameborder="0"
@@ -147,7 +147,7 @@ I first examined the `climate_category` when `outage_duration` is missing and no
 - __Alternate Hypothesis:__ The distribution of `climate_category` is different when `outage_duration` is missing and not missing.
 
 <iframe
-  src="assets/climate_category_by_outage_duration_missing.html"
+  src="assets/climate_category_by_outage_duration_missingness.html"
   width="800"
   height="600"
   frameborder="0"
@@ -168,7 +168,7 @@ I then examined the `cause_category` when `outage_duration` is missing and not m
 - __Alternate Hypothesis:__ The distribution of `cause_category` is different when `outage_duration` is missing and not missing.
 
 <iframe
-  src="assets/cause_category_by_outage_duration_missing.html"
+  src="assets/cause_category_by_outage_duration_missingness.html"
   width="800"
   height="600"
   frameborder="0"
